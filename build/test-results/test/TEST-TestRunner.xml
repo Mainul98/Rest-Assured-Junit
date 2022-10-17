@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestRunner" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-17T11:40:58" hostname="DESKTOP-B4ARN23" time="13.299">
+  <properties/>
+  <testcase name="doLogin" classname="TestRunner" time="2.451"/>
+  <testcase name="getUserData" classname="TestRunner" time="10.848"/>
+  <system-out><![CDATA[eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhbG1hbkBncnIubGEiLCJwYXNzd29yZCI6IjEyMzQiLCJpYXQiOjE2NjYwMDY4NTgsImV4cCI6MTY2NjAwODY1OH0.HTGDP6o3P7BaVsPb1QDzsuf9tbSY4unuLyzllqY5sP4
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
